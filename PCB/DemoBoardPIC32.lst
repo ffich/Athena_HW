@@ -1,0 +1,266 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 21/02/2015 16:50:16
+#Cmp ( ordine = Riferimento )
+| C1         100nF       ; ~           
+| C2         100nF       ; ~           
+| C3         4.7uF       ; ~           
+| C4         22pF        ; ~           
+| C5         22pF        ; ~           
+| C6         100nF       ; ~           
+| C7         100nF       ; ~           
+| C8         100nF       ; ~           
+| C9         100nF       ; ~           
+| C10        100nF       ; ~           
+| C11        100nF       ; ~           
+| C12        100nF       ; ~           
+| C13        4.7uF       ; ~           
+| C14        100nF       ; ~           
+| C15        100nF       ; ~           
+| C16        100nF       ; ~           
+| C17        47uF        ; ~           
+| C18        100nF       ; ~           
+| C19        47uF        ; ~           
+| C20        4.7uF       ; ~           
+| C21        4.7uF       ; ~           
+| C22        100nF       ; ~           
+| C23        100nF       ; ~           
+| C24        100nF       ; ~           
+| C25        100uF       ; ~           
+| CN1        MICROSD     ; ~           
+| CN2        BARREL-JACK ; ~           
+| CN3        USB-MINI-B  ;             
+| CN4        USB_2_A     ;             
+| CON1       RJ45-WIZNET-RB1-125BAG1A; ~           
+| CON2       RJ11        ; ~           
+| D1         LED         ; ~           
+| D2         LED         ; ~           
+| D3         LED         ; ~           
+| D4         LED         ; ~           
+| D5         LED         ; ~           
+| D6         LED         ; ~           
+| D7         LED         ; ~           
+| D8         LED         ; ~           
+| D9         LED         ; ~           
+| D10        LED         ; ~           
+| D11        LED         ; ~           
+| D12        LED         ; ~           
+| D13        1N4007      ; ~           
+| D14        LED         ; ~           
+| D15        LED         ; ~           
+| D16        LED         ; ~           
+| D17        LED         ; ~           
+| H1         CONN_12X2   ;             
+| H2         CONN_12X2   ;             
+| J1         JP_MCLR     ;             
+| J2         JUMPER      ; ~           
+| JOY1       JOYSTICK_SKQUDBE010;             
+| P3         Header_PicKit;             
+| Q1         BC818-40    ; SOT-23      
+| R1         470         ; ~           
+| R2         10k         ; ~           
+| R3         470         ; ~           
+| R4         470         ; ~           
+| R5         1M          ; ~           
+| R6         470         ; ~           
+| R7         470         ; ~           
+| R8         470         ; ~           
+| R9         10k         ; ~           
+| R10        1k          ; ~           
+| R11        4.7k        ; ~           
+| R12        33          ; ~           
+| R13        470         ; ~           
+| R14        470         ; ~           
+| R15        470         ; ~           
+| R16        470         ; ~           
+| R17        4.7k        ; ~           
+| R18        470         ; ~           
+| R19        4.7k        ; ~           
+| R20        470         ; ~           
+| R21        470         ; ~           
+| R22        470         ; ~           
+| R23        10k         ; ~           
+| R24        4.7k        ; ~           
+| R25        1.5k        ; ~           
+| R26        33          ; ~           
+| R27        1.5k        ; ~           
+| R28        33          ; ~           
+| R29        33          ; ~           
+| R30        33          ; ~           
+| R31        33          ; ~           
+| R32        2.2k        ; ~           
+| R33        1.5k        ; ~           
+| R34        4.87k       ; ~           
+| R35        2.2k        ; ~           
+| R36        2.2k        ; ~           
+| R37        49.9        ; ~           
+| R38        49.9        ; ~           
+| R39        49.9        ; ~           
+| R40        49.9        ; ~           
+| R41        2.2k        ; ~           
+| R42        2.2k        ; ~           
+| R43        2.2k        ; ~           
+| R44        249         ; ~           
+| R45        249         ; ~           
+| R46        510         ; ~           
+| R47        33          ; ~           
+| R48        470         ; ~           
+| R49        330         ; ~           
+| R50        10k         ; ~           
+| R51        470         ; ~           
+| R52        10k         ; ~           
+| R53        470         ; ~           
+| R54        470         ; ~           
+| R55        470         ; ~           
+| SW1        SW_PUSH_SKHM; ~           
+| SW2        SW_PUSH_SKHM; ~           
+| SW3        DPDT        ; ~           
+| SW4        SW_PUSH_SKHM; ~           
+| SW5        SW_PUSH_SKHM; ~           
+| TRIM1      POT         ; ~           
+| TRIM2      POT         ; ~           
+| TRIM3      POT         ; ~           
+| U1         PIC32MX795F512L; TQFP        
+| U2         24LC16B     ; SOIC8       
+| U3         MCP23008    ; SOIC-18     
+| U4         MIDAS  MC21605C6W-SPR;             
+| U5         TC72        ; MSOP        
+| U6         DP83848C    ; LQFP48      
+| U7         LD1117S50TR ; SOT-223     
+| U8         LD1117S33TR ; SOT-223     
+| U9         PIC12F1822  ; SOIC8       
+| X1         8MHz        ; ~           
+| Y1         50MHZ       ;             
+#End Cmp
+
+#Cmp ( ordine = Valore )
+| 22pF         C4        ; ~           
+| 22pF         C5        ; ~           
+| 100nF        C1        ; ~           
+| 100nF        C2        ; ~           
+| 100nF        C6        ; ~           
+| 100nF        C7        ; ~           
+| 100nF        C8        ; ~           
+| 100nF        C9        ; ~           
+| 100nF        C10       ; ~           
+| 100nF        C11       ; ~           
+| 100nF        C12       ; ~           
+| 100nF        C14       ; ~           
+| 100nF        C15       ; ~           
+| 100nF        C16       ; ~           
+| 100nF        C18       ; ~           
+| 100nF        C22       ; ~           
+| 100nF        C23       ; ~           
+| 100nF        C24       ; ~           
+| 4.7uF        C3        ; ~           
+| 4.7uF        C13       ; ~           
+| 4.7uF        C20       ; ~           
+| 4.7uF        C21       ; ~           
+| 47uF         C17       ; ~           
+| 47uF         C19       ; ~           
+| 100uF        C25       ; ~           
+| USB-MINI-B   CN3       ;             
+| USB_2_A      CN4       ;             
+| MICROSD      CN1       ; ~           
+| BARREL-JACK  CN2       ; ~           
+| RJ45-WIZNET-RB1-125BAG1A CON1      ; ~           
+| RJ11         CON2      ; ~           
+| LED          D1        ; ~           
+| LED          D2        ; ~           
+| LED          D3        ; ~           
+| LED          D4        ; ~           
+| LED          D5        ; ~           
+| LED          D6        ; ~           
+| LED          D7        ; ~           
+| LED          D8        ; ~           
+| LED          D9        ; ~           
+| LED          D10       ; ~           
+| LED          D11       ; ~           
+| LED          D12       ; ~           
+| 1N4007       D13       ; ~           
+| LED          D14       ; ~           
+| LED          D15       ; ~           
+| LED          D16       ; ~           
+| LED          D17       ; ~           
+| CONN_12X2    H1        ;             
+| CONN_12X2    H2        ;             
+| JP_MCLR      J1        ;             
+| JUMPER       J2        ; ~           
+| JOYSTICK_SKQUDBE010 JOY1      ;             
+| Header_PicKit P3        ;             
+| BC818-40     Q1        ; SOT-23      
+| 33           R12       ; ~           
+| 33           R26       ; ~           
+| 33           R28       ; ~           
+| 33           R29       ; ~           
+| 33           R30       ; ~           
+| 33           R31       ; ~           
+| 33           R47       ; ~           
+| 49.9         R37       ; ~           
+| 49.9         R38       ; ~           
+| 49.9         R39       ; ~           
+| 49.9         R40       ; ~           
+| 249          R44       ; ~           
+| 249          R45       ; ~           
+| 330          R49       ; ~           
+| 470          R1        ; ~           
+| 470          R3        ; ~           
+| 470          R4        ; ~           
+| 470          R6        ; ~           
+| 470          R7        ; ~           
+| 470          R8        ; ~           
+| 470          R13       ; ~           
+| 470          R14       ; ~           
+| 470          R15       ; ~           
+| 470          R16       ; ~           
+| 470          R18       ; ~           
+| 470          R20       ; ~           
+| 470          R21       ; ~           
+| 470          R22       ; ~           
+| 470          R48       ; ~           
+| 470          R51       ; ~           
+| 470          R53       ; ~           
+| 470          R54       ; ~           
+| 470          R55       ; ~           
+| 510          R46       ; ~           
+| 1k           R10       ; ~           
+| 1.5k         R25       ; ~           
+| 1.5k         R27       ; ~           
+| 1.5k         R33       ; ~           
+| 2.2k         R32       ; ~           
+| 2.2k         R35       ; ~           
+| 2.2k         R36       ; ~           
+| 2.2k         R41       ; ~           
+| 2.2k         R42       ; ~           
+| 2.2k         R43       ; ~           
+| 4.7k         R11       ; ~           
+| 4.7k         R17       ; ~           
+| 4.7k         R19       ; ~           
+| 4.7k         R24       ; ~           
+| 4.87k        R34       ; ~           
+| 10k          R2        ; ~           
+| 10k          R9        ; ~           
+| 10k          R23       ; ~           
+| 10k          R50       ; ~           
+| 10k          R52       ; ~           
+| 1M           R5        ; ~           
+| SW_PUSH_SKHM SW1       ; ~           
+| SW_PUSH_SKHM SW2       ; ~           
+| DPDT         SW3       ; ~           
+| SW_PUSH_SKHM SW4       ; ~           
+| SW_PUSH_SKHM SW5       ; ~           
+| POT          TRIM1     ; ~           
+| POT          TRIM2     ; ~           
+| POT          TRIM3     ; ~           
+| MIDAS  MC21605C6W-SPR U4        ;             
+| DP83848C     U6        ; LQFP48      
+| TC72         U5        ; MSOP        
+| MCP23008     U3        ; SOIC-18     
+| 24LC16B      U2        ; SOIC8       
+| PIC12F1822   U9        ; SOIC8       
+| LD1117S50TR  U7        ; SOT-223     
+| LD1117S33TR  U8        ; SOT-223     
+| PIC32MX795F512L U1        ; TQFP        
+| 8MHz         X1        ; ~           
+| 50MHZ        Y1        ;             
+#Fine Cmp
+
+#Fine Lista

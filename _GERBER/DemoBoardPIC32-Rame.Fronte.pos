@@ -1,0 +1,15 @@
+### Module positions - created on 03/02/2018 19:35:39 ###
+### Printed by Pcbnew version pcbnew (2013-07-07 BZR 4022)-stable
+## Unit = inches, Angle = deg.
+## Side : Rame.Fronte
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+D13      1N4007           DO-214AC(SMA)       4.1690    -2.6092       0.0    Rame.Fronte
+JOY1     JOYSTICK         JOY_SKQU            7.8600    -5.3400       0.0    Rame.Fronte
+U1       PIC32MX795F512L  TQFP100             5.9800    -4.6400       0.0    Rame.Fronte
+U2       24LC16B          SOIC8               7.1302    -3.8412       0.0    Rame.Fronte
+U3       MCP23008         SOIC18              7.4600    -4.5000       0.0    Rame.Fronte
+U6       DP83848C         LQFP48              4.6000    -4.5600       0.0    Rame.Fronte
+U9       PIC12F1822       SOIC8               6.5978    -3.6366       0.0    Rame.Fronte
+X1       8MHz             Crystal_HC49S       7.0000    -4.5600      90.0    Rame.Fronte
+Y1       50MHZ            Crystal             5.0200    -4.2400     180.0    Rame.Fronte
+## End
